@@ -2,8 +2,7 @@
 
 This repository provides information about the datasets used in the paper:
 
-**Accelerated Optimization of Large MoE Models by Density-aware Multi-stage Learning**  
-*(Growing-MoE model)*
+**Accelerated Optimization of Large MoE Models by Density-aware Multi-stage Learning**
 
 ## Overview
 
