@@ -26,7 +26,7 @@ All datasets used in our research are publicly available. This document provides
 - **Description**: Collection of flower photographs for image classification tasks.
 - **Link**: [https://www.kaggle.com/datasets/imsparsh/flowers-dataset](https://www.kaggle.com/datasets/imsparsh/flowers-dataset)
 
-### 5. Vehicle Dataset from Cardekho
+### 5. Cars Dataset
 - **Description**: Dataset containing information about used vehicles.
 - **Link**: [https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
